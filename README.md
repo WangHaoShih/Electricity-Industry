@@ -7,7 +7,7 @@ Electricity demand is a fundamental component of societal functioning, making it
 
 
 
-To see the full document please visit: https://docs.google.com/document/d/155qAYmSIfPRrwiDMpIdfbCDNix_o7DfRdTIaFAbPzDY/edit?usp=sharing
+To see the full document, please visit: https://docs.google.com/document/d/155qAYmSIfPRrwiDMpIdfbCDNix_o7DfRdTIaFAbPzDY/edit?usp=sharing
 
-To see the code, please click "## DataC102 Final Project.ipynb" above
+To see the code, please click     " DataC102 Final Project.ipynb "   above. 
 
